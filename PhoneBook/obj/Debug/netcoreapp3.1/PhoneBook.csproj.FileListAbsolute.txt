@@ -1,0 +1,14 @@
+C:\Users\jakub\source\repos\Wsei\PhoneBook\obj\Debug\netcoreapp3.1\PhoneBook.csprojAssemblyReference.cache
+C:\Users\jakub\source\repos\Wsei\PhoneBook\obj\Debug\netcoreapp3.1\PhoneBook.AssemblyInfoInputs.cache
+C:\Users\jakub\source\repos\Wsei\PhoneBook\obj\Debug\netcoreapp3.1\PhoneBook.AssemblyInfo.cs
+C:\Users\jakub\source\repos\Wsei\PhoneBook\bin\Debug\netcoreapp3.1\PhoneBook.exe
+C:\Users\jakub\source\repos\Wsei\PhoneBook\bin\Debug\netcoreapp3.1\PhoneBook.deps.json
+C:\Users\jakub\source\repos\Wsei\PhoneBook\bin\Debug\netcoreapp3.1\PhoneBook.runtimeconfig.json
+C:\Users\jakub\source\repos\Wsei\PhoneBook\bin\Debug\netcoreapp3.1\PhoneBook.runtimeconfig.dev.json
+C:\Users\jakub\source\repos\Wsei\PhoneBook\bin\Debug\netcoreapp3.1\PhoneBook.dll
+C:\Users\jakub\source\repos\Wsei\PhoneBook\bin\Debug\netcoreapp3.1\PhoneBook.pdb
+C:\Users\jakub\source\repos\Wsei\PhoneBook\bin\Debug\netcoreapp3.1\Library.dll
+C:\Users\jakub\source\repos\Wsei\PhoneBook\bin\Debug\netcoreapp3.1\Library.pdb
+C:\Users\jakub\source\repos\Wsei\PhoneBook\obj\Debug\netcoreapp3.1\PhoneBook.csproj.CopyComplete
+C:\Users\jakub\source\repos\Wsei\PhoneBook\obj\Debug\netcoreapp3.1\PhoneBook.dll
+C:\Users\jakub\source\repos\Wsei\PhoneBook\obj\Debug\netcoreapp3.1\PhoneBook.pdb
